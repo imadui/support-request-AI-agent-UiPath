@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0002",
+  "client_id": "CL-76410",
+  "canal": "mobile",
+  "categorie": "retrait",
+  "sujet": "Problème de retrait vers mon compte bancaire",
+  "message": "Bonjour, j'ai demandé un retrait de 80 € de mon portefeuille vers mon compte bancaire vendredi dernier. Le statut est resté en cours depuis 3 jours et je n'ai toujours rien reçu sur mon compte. Est-ce normal ? Combien de temps cela doit-il prendre ?",
+  "date_creation": "2026-02-25T09:25:00",
+  "langue": "fr"
+}

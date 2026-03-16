@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0011",
+  "client_id": "CL-33007",
+  "canal": "chat",
+  "categorie": "depot",
+  "sujet": "Impossible de finaliser un dépôt via PayPal",
+  "message": "Bonjour, j'essaie de faire un dépôt de 30 € via PayPal mais après la redirection, votre site affiche une page blanche et le dépôt n'est pas pris en compte. J'ai essayé deux fois, aucun débit n'apparaît sur mon compte PayPal pour le moment.",
+  "date_creation": "2026-02-25T11:32:00",
+  "langue": "fr"
+}

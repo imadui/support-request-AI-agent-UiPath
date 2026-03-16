@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0009",
+  "client_id": "CL-22109",
+  "canal": "web",
+  "categorie": "autre",
+  "sujet": "Question sur les délais de remboursement",
+  "message": "Bonjour, j'ai retourné un produit la semaine dernière (commande CMD-99871). Le colis a été livré chez vous selon le suivi de La Poste, mais je n'ai pas encore vu de remboursement sur mon compte. Pourriez-vous me donner une estimation du délai moyen de remboursement ?",
+  "date_creation": "2026-02-25T11:00:00",
+  "langue": "fr"
+}

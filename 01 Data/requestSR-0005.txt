@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0005",
+  "client_id": "CL-11877",
+  "canal": "chat",
+  "categorie": "depot",
+  "sujet": "Erreur de montant lors d'un dépôt",
+  "message": "Salut, je voulais déposer 20 € sur mon compte mais l'application a pris 200 € au lieu de 20. Je suis sûr d'avoir tapé 20. Est-ce que vous pouvez corriger ça et me rembourser la différence au plus vite ?",
+  "date_creation": "2026-02-25T10:02:00",
+  "langue": "fr"
+}

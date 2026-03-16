@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0006",
+  "client_id": "CL-60032",
+  "canal": "mobile",
+  "categorie": "retrait",
+  "sujet": "Retrait annulé sans explication",
+  "message": "Bonjour, j'ai tenté un retrait de 50 € ce matin. Dans l'historique, l'opération apparaît comme annulée mais je n'ai reçu aucun mail d'explication. Le montant a bien été remis sur mon solde, mais je voudrais savoir pourquoi le retrait a été refusé.",
+  "date_creation": "2026-02-25T10:15:00",
+  "langue": "fr"
+}

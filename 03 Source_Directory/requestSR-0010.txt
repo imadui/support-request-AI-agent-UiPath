@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0010",
+  "client_id": "CL-99001",
+  "canal": "mobile",
+  "categorie": "produit_defaillant",
+  "sujet": "Taille incorrecte reçue pour un vêtement",
+  "message": "Bonjour, j'ai commandé un pantalon en taille M mais j'ai reçu un L, l'étiquette sur le sachet est correcte mais pas celle du pantalon. Je ne sais pas si c'est un problème d'étiquetage ou de préparation de commande. Merci de m'indiquer comment faire l'échange sans frais.",
+  "date_creation": "2026-02-25T11:15:00",
+  "langue": "fr"
+}

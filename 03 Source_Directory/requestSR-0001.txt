@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0001",
+  "client_id": "CL-54821",
+  "canal": "web",
+  "categorie": "depot",
+  "sujet": "Dépôt par carte bancaire non visible sur mon solde",
+  "message": "Bonjour, j'ai fait un dépôt de 150 € hier soir par carte bancaire pour recharger mon portefeuille sur votre site. Le paiement est bien débité sur mon compte bancaire mais mon solde sur votre application n'a pas bougé. Pouvez-vous vérifier et créditer mon compte s'il vous plaît ?",
+  "date_creation": "2026-02-25T09:12:00",
+  "langue": "fr"
+}

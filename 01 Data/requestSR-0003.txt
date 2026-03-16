@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0003",
+  "client_id": "CL-33219",
+  "canal": "web",
+  "categorie": "produit_defaillant",
+  "sujet": "Casque Bluetooth reçu défectueux",
+  "message": "Bonjour, j'ai commandé un casque Bluetooth Sony ref. XB900 lundi dernier. À la réception, le casque ne s'allume pas du tout même après plusieurs heures de charge. J'ai essayé différents câbles USB, rien ne marche. Je souhaite soit un échange, soit un remboursement.",
+  "date_creation": "2026-02-25T09:40:00",
+  "langue": "fr"
+}

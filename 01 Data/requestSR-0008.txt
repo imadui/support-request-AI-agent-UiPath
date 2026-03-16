@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0008",
+  "client_id": "CL-77543",
+  "canal": "email",
+  "categorie": "produit_rupture_stock",
+  "sujet": "Notification de rupture alors que le produit apparaît disponible",
+  "message": "Bonjour, je reçois régulièrement une alerte produit en rupture pour le parfum Dior Sauvage, alors que sur votre site il est indiqué comme disponible. Quand j'essaie d'ajouter au panier, j'ai un message d'erreur indiquant qu'il n'y a plus de stock. Pouvez-vous clarifier la situation ?",
+  "date_creation": "2026-02-25T10:44:00",
+  "langue": "fr"
+}

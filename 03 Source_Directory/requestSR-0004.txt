@@ -1,0 +1,10 @@
+﻿{
+  "request_id": "SR-0004",
+  "client_id": "CL-90211",
+  "canal": "email",
+  "categorie": "produit_rupture_stock",
+  "sujet": "Article en rupture de stock après paiement",
+  "message": "Bonjour, j'ai passé commande hier pour des baskets Nike Air Max en taille 42. J'ai bien reçu la confirmation de paiement, mais quelques minutes après j'ai reçu un autre mail indiquant que le produit est en rupture de stock. Pouvez-vous me dire si je vais être remboursé ou si vous pouvez me proposer une autre taille ou couleur ?",
+  "date_creation": "2026-02-25T09:55:00",
+  "langue": "fr"
+}
