@@ -31,10 +31,6 @@ Based on the detected category, the file is automatically moved to a specialized
 6. Route the file to the corresponding specialized directory.
 7. Allow the correct team to process the request.
 
-## Purpose
-
-The goal of this project is to automate the triage and routing of support requests using agentic automation and GenAI, reducing manual effort and improving response efficiency.
-
 ## Project Structure
 
 - `01 Data` – input and processed data files
@@ -48,10 +44,4 @@ The goal of this project is to automate the triage and routing of support reques
 
 - **UiPath**
 - **GenAI / AI Agent**
-- **JSON Deserialization**
 - **BPMN**
-- **File-based routing automation**
-
-## Author
-
-**Imad Eddine**
